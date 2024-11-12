@@ -1,0 +1,8 @@
+naca 0010
+oper
+visc 1e7
+iter 250
+pacc
+polars.txt
+dump.txt
+aseq -5 10 0.5

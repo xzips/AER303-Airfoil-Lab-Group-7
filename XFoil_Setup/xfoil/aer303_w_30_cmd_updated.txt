@@ -1,0 +1,9 @@
+load clark_y_coordinates_normalized.txt
+oper
+visc 102489.1781
+mach 0.04730200406
+iter 2000
+pacc
+clark_y_polars_w_30.txt
+clark_y_dump_w_30.txt
+aseq 0 20 0.2
